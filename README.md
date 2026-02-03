@@ -1,2 +1,2 @@
-# Proyect-Software
-Corte 1.
+# Descripcion del proyecto 
+A partir de la falta de un espacio que conecte a estudiantes, profesores y administrativos para refuerzo académico, préstamo, venta de objetos y emprendimientos estudiantiles, se propone crear una herramienta web para la Universidad del Valle de Guatemala que permita una conexión segura, confiable y moderada. En este espacio será posible vender o prestar materiales universitarios, promover emprendimientos estudiantiles y organizar horarios convenientes para refuerzos académicos.
