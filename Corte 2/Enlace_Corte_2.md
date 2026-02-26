@@ -1,7 +1,7 @@
-#Enlaces a documentación
+# Enlaces a documentación
 
-##Enlace al documento del corte 1 "Sistema de conexión estudiantil para intercambio de objetos y refuerzo académico."
+## Enlace al documento del corte 1 "Sistema de conexión estudiantil para intercambio de objetos y refuerzo académico."
 https://uvggt-my.sharepoint.com/:w:/g/personal/her24770_uvg_edu_gt/IQA8QNng8gzASYpAtWWKiPFcAQq9Z1cysC2Ov5dLElHu0N8?e=liVvAX
 
-##Enlace  video explicativo
+## Enlace  video explicativo
 https://youtu.be/OYQ-Mb_QwL8
